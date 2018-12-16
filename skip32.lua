@@ -1,7 +1,7 @@
 --[[
     SKIP32 -- 32 bit block cipher based on SKIPJACK.
     Written by Greg Rose (in C), QUALCOMM Australia, 1999/04/27.
-    Ported by linsy@vip.qq.com, 2018/12/15.
+    Ported by linsy#vip.qq.com, 2018/12/15.
     In common: F-table, G-permutation, key schedule.
     Different: 24 round feistel structure.
     Based on:  Unoptimized test implementation of SKIPJACK algorithm
